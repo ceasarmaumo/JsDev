@@ -1,0 +1,2 @@
+# JsDev
+function flatten
